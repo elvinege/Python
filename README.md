@@ -1,4 +1,4 @@
 # Python
 Hello World
-THis page is blank.
+This page is blank.
 
